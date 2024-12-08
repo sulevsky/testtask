@@ -1,0 +1,4 @@
+signalbot==0.10.1
+pytak==7.1.0
+# development requirements
+ruff==0.8.1
